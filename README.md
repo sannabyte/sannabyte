@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**sannabyte/sannabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <b>Hello there!</b><br><br>
+      My name is Sanna. I am currently a Computer Engineering student at the <a href="https://www.utd.edu">University of Texas at Dallas</a>. I currently work at a Coach Outlet store and actively looking for an internship near the Dallas-Fort Worth area to gain some experience, preferably in the UI/UX department or any department that involves with coding in CSS, HTML, JavaScript, and C++.
+    </p>
+    <br>
+    <p>
+      When I am not programming, I like to play video games, ride my motorcycle, and mainly just chilling at my PC.
+    </p>
+    <br>
+    <p>
+      Follow me on github and linkedin <3
+    </p>
+  </body>
+</html>
