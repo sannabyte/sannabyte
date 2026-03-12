@@ -16,6 +16,6 @@
     <p>
       Follow me on github and linkedin <3
     </p>
-      <img alt=href:"https://linkedin.com/in/sannasisoutham" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+      <img a href="https://linkedin.com/in/sannasisoutham" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </body>
 </html>
